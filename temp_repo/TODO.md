@@ -1,1 +1,0 @@
-Status: Completed successfully!\n\nAll folders and files have been pushed to https://github.com/Praveengadwala06/server_monitoring-.git\nYou can view the repo at: https://github.com/Praveengadwala06/server_monitoring-
